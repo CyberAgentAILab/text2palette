@@ -1,0 +1,38 @@
+[tool.poetry]
+name = "text2palette"
+version = "0.1.0"
+description = ""
+authors = ["qiuqianru <qiuqianru@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+ipycanvas = "^0.13.1"
+opencv-python = "^4.6.0"
+matplotlib = "^3.5.3"
+pandas = "^1.4.4"
+scikit-learn = "^1.1.2"
+jupyterlab-requirements = "^0.13.0"
+jupyterlab = "^3.4.7"
+
+[tool.poetry.group.dev.dependencies]
+pysen = {extras = ["lint"], version = "^0.10.2"}
+
+[tool.pysen]
+version = "0.10"
+
+[tool.pysen.lint]
+enable_black = true
+enable_flake8 = true
+enable_isort = true
+enable_mypy = true
+mypy_preset = "strict"
+line_length = 120
+py_version = "py38"
+[[tool.pysen.lint.mypy_targets]]
+  paths = ["src/multipalette"]
+[tool.pysen.lint.source]
+  includes = ["src"]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
