@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "text2palette"
 version = "0.1.0"
-description = ""
+description = "Multimodal color recommendation for vector graphic documents"
 authors = ["qiuqianru <qiuqianru@gmail.com>"]
 
 [tool.poetry.dependencies]
@@ -29,7 +29,7 @@ mypy_preset = "strict"
 line_length = 120
 py_version = "py38"
 [[tool.pysen.lint.mypy_targets]]
-  paths = ["src/multipalette"]
+  paths = ["src/text2palette"]
 [tool.pysen.lint.source]
   includes = ["src"]
 
