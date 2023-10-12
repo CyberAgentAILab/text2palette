@@ -6,7 +6,7 @@ Official implementation of [Multimodal Color Recommendation in Vector Graphic Do
 
 ## Introduction
 
-In this study, we propose a multimodal masked color model that integrates both color and textual contexts to provide text-aware color recommendation for graphic documents. Our proposed model comprises self-attention networks to capture the relationships between colors in multiple palettes, and cross-attention networks that incorporate both color and CLIP-based text representations. 
+In this study, we propose a multimodal masked color model that integrates both color and textual contexts to provide text-aware color recommendation for graphic documents. Our proposed model comprises self-attention networks to capture the relationships between colors in multiple palettes, and cross-attention networks that incorporate both color and [CLIP-based](https://github.com/openai/CLIP) text representations. 
 
 This proposal is applicable for two color recommendation tasks, color palette completion, which recommends colors based on the given colors and text, and full palette generation, which generates a complete color palette corresponding to the given text. The code for these two tasks is organized in two separate folders.
 
@@ -36,23 +36,23 @@ Target: multiple palettes in a graphic document
 
 ### Quick demo
 
-`color_palette_completion/`
+[color_palette_completion/](color_palette_completion/)
 
-`notebooks/palette_compl.ipynb`: recommend colors for multiple palettes in a design
+[notebooks/palette_compl.ipynb](color_palette_completion/notebooks/palette_compl.ipynb): recommend colors for multiple palettes in a design
 - Trained model of color prediction are in `data/trained_models/`.
 - Json files for test are pre-created in `data/samples/crello_samples/`.
 - New input image files for test are in `data/samples/image_samples/`.
 
-You can also create a json file for test from crello dataset on a notebook `notebooks/create_json_file.ipynb`.
+You can also create a json file for test from crello dataset on a notebook [notebooks/create_json_file.ipynb](color_palette_completion/notebooks/create_json_file.ipynb).
 
 ### Train models
 
-Step1: Create color and text embedding files of train, validation, and test on a notebook `notebooks/preprocess.ipynb`
+Step1: Create color and text embedding files of train, validation, and test on a notebook [notebooks/preprocess.ipynb](color_palette_completion/notebooks/preprocess.ipynb)
 - `data/data_t2p/Data_color`: color corpus of train, validation, and test dataset, and color vocabulary from train dataset
 - `data/data_t2p/Data_text`: text contents and image labels of train, validation, and test dataset
 - `data/data_t2p/Data_text/emb_clip_imagemust_seq`: pre-created text embedings of text contents and image labels for train, validation, and test
 
-Step2: Train a color model on a notebook `notebooks/train_model.ipynb`.
+Step2: Train a color model on a notebook [notebooks/train_model.ipynb](color_palette_completion/notebooks/train_model.ipynb).
 
 ### Data
 
@@ -73,19 +73,19 @@ Target: A single palette for an image
 
 ### Quick demo
 
-`full_palette_generation/`
+[full_palette_generation/](full_palette_generation/)
 
-`notebooks/palette_gen.ipynb`: recommend colors for a given text
+[notebooks/palette_gen.ipynb](full_palette_generation/notebooks/palette_gen.ipynb): recommend colors for a given text
 - Trained model of color generation are in `data/trained_models/`.
 
 ### Train models
 
-Step1: Create color and text embedding files of train, validation, and test on a notebook `notebooks/preprocess.ipynb`
+Step1: Create color and text embedding files of train, validation, and test on a notebook [notebooks/preprocess.ipynb](full_palette_generation/notebooks/preprocess.ipynb)
 - `data/data_t2p/Data_color`: color corpus of train, validation, and test dataset, and color vocabulary from train dataset
 - `data/data_t2p/Data_text`: text input of train, validation, and test dataset
 - `data/data_t2p/Data_text/emb_clip`: pre-created text embedings of text contents and image labels for train, validation, and test
 
-Step2: Train a color model on a notebook `notebooks/train_model.ipynb`.
+Step2: Train a color model on a notebook [notebooks/train_model.ipynb](full_palette_generation/notebooks/train_model.ipynb).
 
 ### Data
 
