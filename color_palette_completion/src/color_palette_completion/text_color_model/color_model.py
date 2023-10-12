@@ -53,7 +53,6 @@ class EmbeddingProcessor(tf.keras.layers.Layer):
         output = self.output_dropout(output)
         return output
 
-# get attention weights???
 def scaled_dot_product_attention(q, k, v, mask):
     matmul_qk = tf.matmul(q, k, transpose_b=True)  # (..., seq_len_q, seq_len_k)
     # scale matmul_qk
@@ -78,7 +77,6 @@ class MultiHeadAttention(tf.keras.layers.Layer):
         self.depth = d_model // self.num_heads
 
         self.wq = tf.keras.layers.Dense(d_model, 
-#                                         kernel_regularizer=regularizers.l1_l2(l1=1e-5, l2=1e-4), 
                                         bias_regularizer=regularizers.l2(Config['Bias_Regularizer']))
         self.wk = tf.keras.layers.Dense(d_model, bias_regularizer=regularizers.l2(Config['Bias_Regularizer']))
         self.wv = tf.keras.layers.Dense(d_model, bias_regularizer=regularizers.l2(Config['Bias_Regularizer']))
@@ -103,12 +101,8 @@ class MultiHeadAttention(tf.keras.layers.Layer):
         key = self.split_heads(key, batch_size)  # (batch_size, num_heads, seq_len_k, depth)
         value = self.split_heads(value, batch_size)  # (batch_size, num_heads, seq_len_v, depth)
 
-        # scaled_attention.shape == (batch_size, num_heads, seq_len_q, depth)
-        # attention_weights.shape == (batch_size, num_heads, seq_len_q, seq_len_k)
         scaled_attention, attention_weights = scaled_dot_product_attention(query, key, value, mask)
-        # (batch_size, seq_len_q, num_heads, depth)
         scaled_attention = tf.transpose(scaled_attention, perm=[0, 2, 1, 3])
-        # (batch_size, seq_len_q, d_model)
         concat_attention = tf.reshape(scaled_attention, (batch_size, -1, self.d_model))
 
         output = self.dense(concat_attention)  # (batch_size, seq_len_q, d_model
@@ -200,7 +194,6 @@ class Text2Palettes(tf.keras.Model):
         self.text_fc = tf.keras.Sequential([
             tf.keras.layers.Dense(self.embedding_size, bias_regularizer=regularizers.l2(Config['Bias_Regularizer']))  # (batch_size, seq_len, d_model)
         ])
-#         self.nsp_predictor = tf.keras.layers.Dense(2)
 
     def call(self, inputs, training=None):
         # input color and text in batch
@@ -214,13 +207,9 @@ class Text2Palettes(tf.keras.Model):
         # reduce text embedding size according to color embedding size
         batch_text_contents_emb = self.text_fc(batch_text_contents_emb)
         batch_image_labels_emb = self.text_fc(batch_image_labels_emb)
-#         print(batch_text_contents_emb.shape)
-#         print(batch_image_labels_emb.shape)
         
         # text emb = image labels & text contents embs
         x_t = tf.concat([batch_text_contents_emb, batch_image_labels_emb], 1)
-        # text emb = image labels & text contents embs
-#         x_t = tf.concat([tf.concat([batch_text_contents_emb, batch_image_labels_emb], 1)], 1)
         
         # Q:color emb, K:text emb by cross-attention
         for i in range(self.num_transformer_ca_layers):
@@ -233,10 +222,6 @@ class Text2Palettes(tf.keras.Model):
         
         mlm_predict = tf.matmul(x_c, self.embedding.token_embedding.embeddings, transpose_b=True)
         sequence_output = x_c
-        
-#         print(f'transformer output embedding: {x_output.shape}')
-#         print(f'color input embedding: {self.embedding.token_embedding.embeddings.shape}')
-#         print(f'mlm predict: {mlm_predict.shape}')
         
         return mlm_predict, sequence_output
     

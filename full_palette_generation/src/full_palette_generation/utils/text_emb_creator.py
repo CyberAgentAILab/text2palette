@@ -38,15 +38,11 @@ def save_text_embedding_clip(text_inputs, data_path, text_object, dataType):
         sentence = ''
         for t in text_input:
             sentence += f'{t}'
-#         print(sentence)  
         text_tokens = clip.tokenize(sentence).cuda()
         with torch.no_grad():
             text_features = model.encode_text(text_tokens).cuda().float()
             text_features /= text_features.norm(dim=-1, keepdim=True)
             text_embedding = text_features.cpu().numpy()
-#                     text_embedding = tf.reshape(text_features, (1, 1, -1)) # reshape text feature from 2 dims to 3 dims
-#                 print(text_features.shape)
-#                     text_embedding_batch = tf.concat([text_embedding_batch, text_features], 0) if text_embedding_batch is not None else text_features # for 1 text embedding
             with open(f"{data_path}/{text_object}_emb_clip_{dataType}.txt", "ab") as f:
                 np.savetxt(f, text_embedding)
         i += 1

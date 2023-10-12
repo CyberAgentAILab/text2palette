@@ -8,10 +8,6 @@ def detect_labels(image_content):
     response = client.label_detection(image=image, max_results=30) # set topN with max_results
     labels = response.label_annotations
     
-    # print('labels in one image:')
-    # for label in labels:
-    #     print(f'{label.description}: {label.score}')
-    
     return labels
 
     if response.error.message:
