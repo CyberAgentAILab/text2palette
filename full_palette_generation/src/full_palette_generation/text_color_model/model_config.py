@@ -7,7 +7,7 @@ bin_range = 16
 text_model = '_clip'
 emb_file = 'emb_clip'
 
-PROJECT_PATH = '../data/data_t2p/'
+PROJECT_PATH = '../data/t2p/'
 
 Config = {
     'project_path': PROJECT_PATH,
@@ -16,10 +16,10 @@ Config = {
     'text_model': text_model,
     'emb_file': emb_file,
 
-    'Corpus_File_Path': os.path.join(PROJECT_PATH, f'Data_color/color_corpus_{representation}_train.txt'),
-    'Vocabulary_File_Path': os.path.join(PROJECT_PATH, f'Data_color/color_vocab_{representation}_train.txt'),
-    'Text_Input_File_Path': os.path.join(PROJECT_PATH, f'Data_text/text_input_train.txt'),
-    'Text_Input_Emb_File_Path': os.path.join(PROJECT_PATH, f'Data_text/{emb_file}/text_input_emb{text_model}_train.txt'),
+    'Corpus_File_Path': os.path.join(PROJECT_PATH, f'color/color_corpus_{representation}_train.txt'),
+    'Vocabulary_File_Path': os.path.join(PROJECT_PATH, f'color/color_vocab_{representation}_train.txt'),
+    'Text_Input_File_Path': os.path.join(PROJECT_PATH, f'text/text_input_train.txt'),
+    'Text_Input_Emb_File_Path': os.path.join(PROJECT_PATH, f'text/{emb_file}/text_input_emb{text_model}_train.txt'),
     'Log_Dir': os.path.join(PROJECT_PATH, 'Logs'),
     'Saved_Weight': os.path.join(PROJECT_PATH, 'Saved_Weight'),
     'Character_Frequency_Threshold': 1,  # 3 may be better for large dataset

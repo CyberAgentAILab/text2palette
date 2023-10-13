@@ -10,7 +10,7 @@ langType = '_en'
 text_model = '_clip'
 emb_file = 'emb_clip_imagemust_seq'
 
-PROJECT_PATH = '../data/data_t2p/'
+PROJECT_PATH = '../data/t2p/'
 
 Config = {
     'project_path': PROJECT_PATH,
@@ -22,14 +22,13 @@ Config = {
     'langType': langType,
     'kmeansType': kmeansType,
 
-    'Corpus_File_Path': os.path.join(PROJECT_PATH, f'Data_color/color_corpus_{representation}_train{kmeansType}.txt'),
-    'Vocabulary_File_Path': os.path.join(PROJECT_PATH, f'Data_color/color_vocab_{representation}_train{kmeansType}.txt'),
-    'Text_Contents_File_Path': os.path.join(PROJECT_PATH, f'Data_text/text_contents{db_tag}_train{langType}.txt'),
-    'Image_Labels_File_Path': os.path.join(PROJECT_PATH, f'Data_text/image_labels{db_tag}_train{langType}.txt'),
-    'Text_Contents_Emb_File_Path': os.path.join(PROJECT_PATH, f'Data_text/{emb_file}/text_contents_emb{text_model}_train.txt'),
-    'Image_Labels_Emb_File_Path': os.path.join(PROJECT_PATH, f'Data_text/{emb_file}/image_labels_emb{text_model}_train.txt'),
+    'Corpus_File_Path': os.path.join(PROJECT_PATH, f'color/color_corpus_{representation}_train{kmeansType}.txt'),
+    'Vocabulary_File_Path': os.path.join(PROJECT_PATH, f'color/color_vocab_{representation}_train{kmeansType}.txt'),
+    'Text_Contents_File_Path': os.path.join(PROJECT_PATH, f'text/text_contents{db_tag}_train{langType}.txt'),
+    'Image_Labels_File_Path': os.path.join(PROJECT_PATH, f'text/image_labels{db_tag}_train{langType}.txt'),
+    'Text_Contents_Emb_File_Path': os.path.join(PROJECT_PATH, f'text/{emb_file}/text_contents_emb{text_model}_train.txt'),
+    'Image_Labels_Emb_File_Path': os.path.join(PROJECT_PATH, f'text/{emb_file}/image_labels_emb{text_model}_train.txt'),
     'Log_Dir': os.path.join(PROJECT_PATH, 'Logs'),
-    # 'Saved_Weight': os.path.join(PROJECT_PATH, 'Saved_Weight'),
     'Saved_Weight': os.path.join(PROJECT_PATH, f'Saved_Weight_256d_16bins'),
     'Character_Frequency_Threshold': 1,  # 3 may be better for large dataset
     'Segment_Size': 3,
@@ -41,7 +40,7 @@ Config = {
     'Max_Categories_Length': 1,
     'Mask_Rate': 0.4,
     'Mask_Token_Rate': 0.5,
-    'Mask_position': [], # fix mask position: 8, 9: cta colors
+    'Mask_position': [], # fix mask position
     'Vocab_Size': 762,  # fix vocab_size? len(color_freq)+4 (SEP, MASK, PAD, UNK)
     'Embedding_Size': 512, # for NLP 256 is better?
     'Num_Transformer_Layers': 3, # 3
