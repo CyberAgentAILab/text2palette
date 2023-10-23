@@ -31,7 +31,15 @@ def save_text_embedding_clip(text_inputs, data_path, text_object, dataType):
     
     i = 0
     # renew target file
-    os.remove(f"{data_path}/{text_object}_emb_clip_{dataType}.txt")
+    file_path = f"{data_path}/{text_object}_emb_clip_{dataType}.txt"
+    if os.path.isfile(file_path):
+        # If it exists, remove it
+        try:
+            os.remove(file_path)
+            print(f"{file_path} has been removed successfully")
+        except Exception as e:
+            print(f"Error occurred while trying to remove {file_path}. Error: {e}")
+            
     for text_input in text_inputs:
         text_embedding = None
         # create 1 text sentence

@@ -10,14 +10,21 @@ In this study, we propose a multimodal masked color model that integrates both c
 
 This proposal is applicable for two color recommendation tasks, color palette completion, which recommends colors based on the given colors and text, and full palette generation, which generates a complete color palette corresponding to the given text. The code for these two tasks is organized in two separate folders.
 
-## Prerequisites
-
-- Python:3.8
-- Poetry: 1.2.*
-
 ## Setup
 
-This project has been developed and tested in a Google Cloud Platform (GCP) notebook instance, utilizing TensorFlow 2.3 environment and a NVIDIA T4 GPU.
+This project has been developed and tested in a Google Cloud Platform (GCP) notebook instance.
+PS: We use google-cloud-vision to detect image labels. An updated version with Open-source-software(OSS) will be released soon.
+- Machine type: n1-standard-4
+- Environment: TensorFlow Enterprise 2.3
+- GPU: NVIDIA T4 * 1.
+- Python:3.7.12
+- CUDA: 11.6
+
+Install [pytorch](https://pytorch.org/get-started/locally/) and requirements
+```
+pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu116
+pip3 install requirement.txt
+```
 
 If run locally, please try to install requirements and run jupyter.
 
@@ -48,15 +55,16 @@ You can also create a json file for test from crello dataset on a notebook [note
 ### Train models
 
 Step1: Create color and text embedding files of train, validation, and test on a notebook [notebooks/preprocess.ipynb](color_palette_completion/notebooks/preprocess.ipynb)
-- `data/data_t2p/Data_color`: color corpus of train, validation, and test dataset, and color vocabulary from train dataset
-- `data/data_t2p/Data_text`: text contents and image labels of train, validation, and test dataset
-- `data/data_t2p/Data_text/emb_clip_imagemust_seq`: pre-created text embedings of text contents and image labels for train, validation, and test
+- `data/data_t2p/color`: color corpus of train, validation, and test dataset, and color vocabulary from train dataset
+- `data/data_t2p/text`: text contents and image labels of train, validation, and test dataset
+- `data/data_t2p/text/emb_clip_imagemust_seq`: pre-created text embedings of text contents and image labels for train, validation, and test
 
 Step2: Train a color model on a notebook [notebooks/train_model.ipynb](color_palette_completion/notebooks/train_model.ipynb).
 
 ### Data
 
-`data/data_colors/data_colors_labels/.`: extracted color palettes for Image-SVG-Text elements, text contents and image lables from [Crello-dataset-v2](https://storage.cloud.google.com/ailab-public/canvas-vae/crello-dataset-v2.zip) ([the lastest Crello-dataset](https://github.com/CyberAgentAILab/canvas-vae/blob/main/docs/crello-dataset.md))
+`data/data_colors/data_colors_labels/.`: extracted color palettes for Image-SVG-Text elements, text contents and image lables from [Crello-dataset-v2](https://storage.cloud.google.com/ailab-public/canvas-vae/crello-dataset-v2.zip) ([the lastest Crello-dataset](https://github.com/CyberAgentAILab/canvas-vae/blob/main/docs/crello-dataset.md)).
+- Rawdata in `data/crello-dataset-v2`: Download and unzip the crello dataset v2 and get .tfrecord files for train/val/test.
 - Data filter: high frequent image labels, English contents
 
 `data/trained_model`: trained model for text-aware color completion
@@ -75,17 +83,17 @@ Target: A single palette for an image
 
 [full_palette_generation/](full_palette_generation/)
 
-[notebooks/palette_gen.ipynb](full_palette_generation/notebooks/palette_gen.ipynb): recommend colors for a given text
+Step1: Create color and text embedding files of train, validation, and test on a notebook [notebooks/preprocess.ipynb](full_palette_generation/notebooks/preprocess.ipynb)
+- `data/data_t2p/color`: color corpus of train, validation, and test dataset, and color vocabulary from train dataset
+- `data/data_t2p/text`: text input of train, validation, and test dataset
+- `data/data_t2p/text/emb_clip`: pre-created text embedings of text contents and image labels for train, validation, and test
+
+Step2: Generate colors based on given text on a notebook [notebooks/palette_gen.ipynb](full_palette_generation/notebooks/palette_gen.ipynb)
 - Trained model of color generation are in `data/trained_models/`.
 
 ### Train models
 
-Step1: Create color and text embedding files of train, validation, and test on a notebook [notebooks/preprocess.ipynb](full_palette_generation/notebooks/preprocess.ipynb)
-- `data/data_t2p/Data_color`: color corpus of train, validation, and test dataset, and color vocabulary from train dataset
-- `data/data_t2p/Data_text`: text input of train, validation, and test dataset
-- `data/data_t2p/Data_text/emb_clip`: pre-created text embedings of text contents and image labels for train, validation, and test
-
-Step2: Train a color model on a notebook [notebooks/train_model.ipynb](full_palette_generation/notebooks/train_model.ipynb).
+Train a color model on a notebook [notebooks/train_model.ipynb](full_palette_generation/notebooks/train_model.ipynb).
 
 ### Data
 

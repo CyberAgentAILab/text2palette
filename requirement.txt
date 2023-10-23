@@ -1,0 +1,7 @@
+opencv-python>=4.6.0
+ftfy==6.1.1
+regex==2022.9.13
+tqdm==4.64.1
+git+https://github.com/openai/CLIP.git
+ipycanvas>=0.13.1
+google-cloud-vision==3.1.4
