@@ -63,7 +63,7 @@ Step2: Train a color model on a notebook [notebooks/train_model.ipynb](color_pal
 
 ### Data
 
-`data/data_colors/data_colors_labels/.`: extracted color palettes for Image-SVG-Text elements, text contents and image lables from [Crello-dataset-v2](https://storage.cloud.google.com/ailab-public/canvas-vae/crello-dataset-v2.zip) ([the lastest Crello-dataset](https://github.com/CyberAgentAILab/canvas-vae/blob/main/docs/crello-dataset.md)).
+`data/data_colors/data_colors_labels/.`: extracted color palettes for Image-SVG-Text elements, text contents and image lables from [Crello-dataset-v2](https://storage.googleapis.com/ailab-public/canvas-vae/crello-dataset-v2.zip) ([the lastest Crello-dataset](https://github.com/CyberAgentAILab/canvas-vae/blob/main/docs/crello-dataset.md)).
 - Rawdata in `data/crello-dataset-v2`: Download and unzip the crello dataset v2 and get .tfrecord files for train/val/test.
 - Data filter: high frequent image labels, English contents
 
