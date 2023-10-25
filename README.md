@@ -26,13 +26,6 @@ pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu11
 pip3 install requirement.txt
 ```
 
-If run locally, please try to install requirements and run jupyter.
-
-```
-poetry install
-poetry run jupyter lab
-```
-
 ## Color palette completion
 
 Task: Recommends colors based on the given colors and text
