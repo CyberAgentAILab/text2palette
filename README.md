@@ -1,4 +1,4 @@
-# Text-aware Color recommendation for vector graphic documents 
+# Multimodal Color recommendation in vector graphic documents 
 
 Official implementation of [Multimodal Color Recommendation in Vector Graphic Documents, ACM MM 2023](https://arxiv.org/abs/2308.04118).
 
