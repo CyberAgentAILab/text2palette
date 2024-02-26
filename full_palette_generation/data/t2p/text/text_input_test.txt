@@ -1,0 +1,1018 @@
+['communism']
+"['dark', 'neon']"
+"['dont', 'talk', 'to', 'me']"
+"['good', 'night', 'princess']"
+"['good', 'morning', 'princess']"
+"['dusty', 'blue']"
+"['skin', 'sample']"
+"['soft', 'fall']"
+"['camilla', 'at', 'the', 'beach']"
+['wedding']
+"['roses', 'bouquet']"
+['bakery']
+"['pale', 'peach']"
+"['plums', 'and', 'moons']"
+"['fishermans', 'dream']"
+['tenderness']
+"['perfect', 'day']"
+"['wooden', 'path']"
+"['little', 'mermaid']"
+['exuberance']
+"['pink', 'ladies']"
+['sandy']
+"['almost', 'morning']"
+"['clear', 'thoughts']"
+"['midsummer', 'night', 'dream']"
+"['aqua', 'aura']"
+"['the', 'arrows', 'of', 'love']"
+"['pastel', 'play']"
+"['fly', 'away']"
+"['meaningless', 'apologies']"
+"['late', 'summer', 'festival']"
+['clay']
+"['siren', 'dreams']"
+"['french', 'countryside']"
+"['sunday', 'afternoon']"
+"['mountains', 'calling']"
+"['living', 'room']"
+['love']
+"['so', 'cold']"
+"['i', 'love', 'you']"
+"['beachy', 'day']"
+"['ice', 'cream']"
+"['sea', 'side']"
+"['aquamarine', 'nights']"
+"['autumnal', 'breeze']"
+"['royal', 'twilight']"
+"['starry', 'night']"
+['moon']
+"['shades', 'of', 'blue']"
+"['she', 'has', 'some', 'trouble']"
+"['autumn', 'high', 'school']"
+['lavender']
+"['sugar', 'and', 'cream']"
+"['midnight', 'bloom']"
+['midwinter']
+"['storm', 'at', 'sea']"
+"['i', 'feel', 'sick']"
+"['christmas', 'decorations']"
+['mermaid']
+"['strawberry', 'chocolate', 'cake']"
+"['girl', 'gang']"
+"['dreamy', 'clouds']"
+['vibrant']
+"['black', 'cherry']"
+['vivian']
+"['between', 'dreams', 'and', 'reality']"
+"['roses', 'and', 'gold']"
+['vivianne']
+"['pale', 'blueberry']"
+"['strawberry', 'daiquiri']"
+"['autumn', 'wed']"
+"['raspberry', 'lemonade']"
+"['watermelon', 'candy']"
+"['twilight', 'town']"
+"['strawberry', 'mint', 'chip']"
+"['fresh', 'sophisticate']"
+"['fresh', 'sophisticated']"
+"['fresh', 'sophisticate']"
+"['sunset', 'wedding']"
+['soul']
+['blue']
+['grass']
+"['clean', 'creative']"
+"['corrupt', 'royalty']"
+"['farm', 'grass']"
+"['midnight', 'rise']"
+"['black', 'rose']"
+"['shaded', 'gray']"
+"['white', 'rose']"
+"['priceless', 'ruby']"
+"['sweet', 'dreams']"
+"['my', 'grayscale']"
+"['escape', 'the', 'night']"
+"['random', 'blues']"
+['lullaby']
+['cherry']
+"['dusty', 'rose', 'garden']"
+"['dream', 'in', 'a', 'dream']"
+"['north', 'shore']"
+['moody']
+"['mango', 'and', 'grapefruit']"
+"['rose', 'and', 'violet']"
+['swim']
+['goldfish']
+['bubblegum']
+['medical']
+"['rain', 'down']"
+"['broken', 'screen']"
+"['arrogance', 'or', 'perception']"
+"['anxiety', 'or', 'confidence']"
+['latte']
+"['defiance', 'or', 'passion']"
+"['intelligence', 'or', 'tranquility']"
+"['white', 'blush']"
+"['war', 'soldier']"
+['orange']
+"['orange', 'black']"
+"['orange', 'creamsicle']"
+"['small', 'satisfaction']"
+"['sky', 'sunrise']"
+"['little', 'bit', 'of', 'rainbow']"
+"['sky', 'sunset']"
+"['tesla', 'motors']"
+"['just', 'tonight']"
+['twighlight']
+"['dried', 'heart']"
+['mystic']
+"['burning', 'hell']"
+"['bright', 'life']"
+['pasture']
+"['sky', 'light']"
+"['lonely', 'nights']"
+"['sunset', 'wonder']"
+"['beach', 'house']"
+"['shallow', 'water']"
+['blackout']
+['shore']
+"['sailor', 'gray']"
+"['without', 'a', 'heart']"
+['ldrown']
+"['panic', 'attack']"
+"['mint', 'marine']"
+"['spring', 'lips']"
+['fixated']
+['slight']
+"['high', 'school', 'love']"
+['loath']
+['embrace']
+['muddy']
+"['war', 'addictive']"
+"['little', 'stress']"
+"['sweet', 'rain']"
+"['cotton', 'candy', 'lovers']"
+"['sky', 'to', 'rock']"
+"['mystic', 'mist']"
+['woodland']
+"['spring', 'glow']"
+['freezer']
+"['softer', 'than', 'everything']"
+"['black', 'as', 'night']"
+['analogue']
+['bubble']
+['casino']
+"['romantic', 'autumn']"
+['stupid']
+"['lay', 'in', 'the', 'atmosphere']"
+['greys']
+['affair']
+"['untill', 'we', 'drown']"
+"['fresh', 'and', 'professional']"
+['darks']
+['lights']
+['returning']
+['muddled']
+['cool']
+"['chewed', 'gum']"
+"['butterscotch', 'cinnamon']"
+"['tell', 'me', 'gently']"
+['summer']
+['heartaches']
+"['lavender', 'tea']"
+"['antique', 'white']"
+"['frozen', 'peaches']"
+"['its', 'been', 'so', 'long']"
+"['blue', 'gray']"
+['sophisticated']
+"['dark', 'reds', 'and', 'purples']"
+"['maybe', 'blue']"
+"['melon', 'boy']"
+"['looking', 'for', 'you']"
+['strolling']
+"['falling', 'snow']"
+"['prune', 'peach']"
+['cookies']
+"['cold', 'blood']"
+"['pastel', 'tones']"
+"['slow', 'morning']"
+"['never', 'and', 'always']"
+['pistachios']
+['perfume']
+['insomniac']
+"['touching', 'and', 'touched']"
+['dismal']
+['green']
+"['at', 'the', 'horizon']"
+"['after', 'the', 'sun', 'sets']"
+"['blackberry', 'ice']"
+"['growing', 'up']"
+"['law', 'office']"
+['pastel']
+['neutral']
+"['miss', 'you']"
+['party']
+"['that', 'million', 'blue']"
+"['', 'hours', 'crazy']"
+"['pastel', 'fire']"
+['fire']
+"['purple', 'punch']"
+"['baby', 'steps']"
+['pink']
+['blue']
+['purple']
+['red']
+['relaxation']
+['skies']
+"['too', 'early']"
+['highlight']
+"['reddy', 'to', 'go']"
+['grays']
+['modern']
+['sincerity']
+['stay']
+['winterfell']
+"['young', 'and', 'bright']"
+['indecision']
+['hair']
+['skin']
+"['wilt', 'rose']"
+"['cute', 'dance']"
+"['dream', 'green']"
+"['dream', 'violet']"
+['necromancer']
+"['forest', 'pond']"
+"['mocha', 'memories']"
+"['a', 'little', 'treat']"
+"['willow', 'witch']"
+"['rainbow', 'sprinkles']"
+"['green', 'summer', 'grass']"
+"['happy', 'cosmic', 'girls']"
+"['critical', 'beauty']"
+"['salt', 'water']"
+"['sweet', 'sour', 'bitter']"
+"['party', 'girls']"
+"['aloe', 'vera']"
+['stereotypical']
+['finest']
+['barcelona']
+['limelight']
+"['beaten', 'to', 'the', 'pulp']"
+['mint']
+"['sorry', 'i', 'fell']"
+"['moderate', 'melancholy']"
+"['cinderella', 'gown']"
+"['purple', 'rain']"
+['blues']
+['moss']
+"['water', 'fall']"
+['fuchsia']
+['forestation']
+['lavish']
+"['treading', 'red']"
+"['teals', 'and', 'feels']"
+"['golden', 'horizon']"
+"['sour', 'and', 'sweet']"
+"['dread', 'purple']"
+"['blood', 'pink']"
+"['green', 'mist']"
+"['amethyst', 'anathema']"
+"['in', 'the', 'dust']"
+"['the', 'sea']"
+"['where', 'the', 'ocean', 'stops', 'and', 'the', 'sky', 'starts']"
+"['actual', 'cool', 'tones']"
+"['lm', 'sorry']"
+['ruby']
+['sedulity']
+"['why', 'me']"
+"['blood', 'soaked', 'through']"
+"['pink', 'with', 'white']"
+"['atom', 'steel']"
+['pinks']
+['pinks']
+['workaholic']
+['sky']
+['tears']
+"['hurts', 'right', 'down', 'in', 'my', 'stomach']"
+['basic']
+"['i', 'want', 'to', 'die']"
+"['dream', 'scape']"
+['ugh']
+['leadership']
+['endotoxin']
+['noncombustible']
+['landlord']
+"['act', 'a', 'fool']"
+"['fading', 'lemons']"
+['sustainability']
+"['jewel', 'rainbow']"
+"['pine', 'landscape']"
+"['bad', 'choices']"
+['autumn']
+"['never', 'felt', 'more', 'free']"
+"['drowsy', 'soul']"
+['cute']
+['cute']
+['spring']
+['aneutrals']
+"['blue', 'hues']"
+['wizard']
+['custom']
+"['dark', 'and', 'moody']"
+"['hydrangea', 'hues']"
+['cupcake']
+"['poppy', 'fields']"
+['macarons']
+"['laguna', 'sun']"
+['tapestry']
+"['purple', 'ombre']"
+['chalcedony']
+"['gummy', 'bear']"
+"['nature', 'nurture']"
+"['purple', 'stains']"
+"['a', 'pinch', 'of', 'spice']"
+['cerise']
+"['honey', 'im', 'home']"
+['wizard']
+"['peaches', 'and', 'cream']"
+['red']
+['nobility']
+"['fresh', 'and', 'young']"
+['agate']
+"['wild', 'rose', 'canyon']"
+['stargazer']
+['sunbrella']
+"['late', 'bloomer']"
+['peaches']
+['glacier']
+['rosebud']
+['peacock']
+"['jungle', 'parrot']"
+"['country', 'blooms']"
+"['pacific', 'sunset']"
+['consulting']
+"['cherry', 'berry']"
+"['slither', 'in', 'slytherin']"
+"['the', 'diadem', 'of', 'ravenclaw']"
+"['kindly', 'hufflepuff']"
+"['hogwarts', 'is', 'my', 'home']"
+"['better', 'be', 'gryffindor']"
+"['what', 'should', 'i', 'do']"
+"['hold', 'you', 'close']"
+"['summer', 'bruises']"
+['cute']
+"['bad', 'listener']"
+"['i', 'need', 'to', 'shower']"
+"['sunny', 'haze']"
+"['lemonade', 'memories']"
+"['mermaid', 'tears']"
+"['heat', 'metal']"
+"['vicious', 'mockery']"
+"['time', 'stop']"
+['straw']
+"['greyscale', 'rain']"
+"['warm', 'fire']"
+"['love', 'me', 'like', 'you', 'did']"
+"['drowning', 'slowly']"
+['afraid']
+"['warm', 'sunrise']"
+"['moon', 'chases', 'sun']"
+['error']
+"['pastel', 'candy', 'heart']"
+"['feeling', 'blue']"
+"['red', 'head']"
+"['proud', 'mountains']"
+"['cant', 'remember']"
+"['pillow', 'talks']"
+"['gentle', 'frost']"
+['fairytale']
+"['superhero', 'aesthetic']"
+"['midnight', 'musing']"
+"['old', 'coffee']"
+"['sweet', 'grass']"
+['fleeting']
+['bleeding']
+"['arcade', 'night']"
+"['apple', 'cinnamon']"
+"['ice', 'cream', 'parlor']"
+"['sunny', 'skies']"
+"['early', 'summer']"
+"['strawberry', 'preserves']"
+"['sleeping', 'peonies']"
+['fallen']
+"['vintage', 'roses']"
+"['wispy', 'flame']"
+"['mallow', 'mauve']"
+"['thick', 'smog']"
+"['by', 'the', 'riverside']"
+"['sunsets', 'and', 'rainclouds']"
+"['bitter', 'berries']"
+"['warm', 'autumn']"
+"['melting', 'ice']"
+"['ashes', 'to', 'dust']"
+['eggshells']
+"['faded', 'powder']"
+"['the', 'horizon']"
+"['hate', 'to', 'think', 'about', 'you', 'with', 'somebody', 'else']"
+"['strawberry', 'swing']"
+"['up', 'in', 'flames']"
+['aloe']
+"['dreams', 'about', 'dying']"
+"['lost', 'boys']"
+['ground']
+['bouquet']
+['angels']
+['camels']
+"['raspberry', 'chocolate']"
+['nature']
+"['mermaid', 'shoreline']"
+['embroidery']
+['lake']
+"['old', 'farm']"
+"['seaside', 'evening']"
+"['rotting', 'wood']"
+"['walk', 'in', 'the', 'woods']"
+"['missing', 'you']"
+"['royalty', 'subdued']"
+['flower']
+"['how', 'romantic']"
+['pastels']
+['seasoned']
+"['muted', 'tranquility']"
+"['sweet', 'orange', 'cream']"
+['weathered']
+"['modern', 'pattern']"
+"['spring', 'crocus']"
+"['garden', 'party']"
+"['mexican', 'colonial']"
+"['wilt', 'away']"
+['pastels']
+"['rose', 'sensations', 'of', 'sky']"
+['versailles']
+['complementary']
+"['my', 'room']"
+['create']
+['woman']
+"['new', 'york']"
+"['two', 'ghosts']"
+"['sweet', 'creature']"
+['carolina']
+"['high', 'on', 'impact']"
+"['only', 'angel']"
+"['burning', 'wraith']"
+"['free', 'red']"
+"['golden', 'greens']"
+"['super', 'rich', 'kids']"
+"['not', 'just', 'money']"
+"['sweet', 'iife']"
+"['thinking', 'bout', 'you']"
+['orange']
+"['cheapest', 'flight']"
+"['girl', 'voice']"
+['opai']
+"['when', 'i', 'was', 'young']"
+"['green', 'blue', 'purple']"
+['aesthetic']
+['ramen']
+"['ramen', 'shop']"
+"['after', 'the', 'rain']"
+"['moon', 'child']"
+"['dessert', 'week']"
+"['sapphire', 'gem']"
+"['hematite', 'gem']"
+"['opal', 'gem']"
+['slytherin']
+['gryffindor']
+['hufflepuff']
+['ravenclaw']
+['important']
+"['red', 'ash']"
+"['blueish', 'white']"
+"['mixed', 'green']"
+['bedroom']
+"['morning', 'cicada']"
+"['living', 'room']"
+['evil']
+"['summer', 'peaches']"
+"['unicorn', 'explosion']"
+"['wonder', 'woman']"
+"['calm', 'sea']"
+['character']
+['character']
+['character']
+['vague']
+['vague']
+"['white', 'and', 'grayish']"
+['bluish']
+"['evergreen', 'youth']"
+"['skin', 'tone']"
+['facebook']
+"['gold', 'resemble']"
+"['flat', 'sky']"
+"['turning', 'black']"
+"['flat', 'neon']"
+"['that', 'i', 'like']"
+['gun']
+"['mimic', 'shadow']"
+"['real', 'retro']"
+"['milky', 'milk']"
+"['red', 'dimension']"
+"['facebook', 'logo']"
+"['mudslider', 'of', 'purple']"
+"['turning', 'yellow']"
+"['brown', 'picked']"
+"['shadow', 'of', 'gray']"
+"['shadow', 'of', 'green']"
+['preservation']
+"['muted', 'sunset']"
+"['princess', 'gradient']"
+"['gradient', 'suprise']"
+['yellows']
+['oranges']
+['reds']
+['charming']
+"['bright', 'blue', 'and', 'purple']"
+['clothing']
+"['nature', 'is', 'wonderful']"
+['mudslide']
+['edinburgh']
+"['think', 'too', 'much']"
+"['overshadowed', 'thoughts']"
+['family']
+"['neutral', 'nights']"
+"['second', 'time', 'around']"
+"['', 'shades', 'of', 'grey']"
+"['moody', 'blue', 'hues']"
+['sighing']
+"['simple', 'grass']"
+"['dark', 'gradient']"
+['vigorous']
+"['red', 'platinum']"
+['archaic']
+['awful']
+['blossoming']
+"['sugar', 'plum']"
+"['medium', 'purple']"
+"['pastel', 'boy']"
+"['jazzy', 'town']"
+['alien']
+"['thai', 'tea']"
+"['fairy', 'tales']"
+"['turn', 'away']"
+['baby']
+['neutral']
+"['seeing', 'red']"
+"['by', 'the', 'beach']"
+"['torn', 'socks']"
+"['gentle', 'rainbow']"
+"['coagulated', 'blood']"
+"['fun', 'ice', 'cream', 'day']"
+"['skin', 'tones']"
+"['antique', 'rose']"
+"['black', 'coffee']"
+"['opposites', 'attract', 'orange', 'and', 'blue']"
+['rice']
+"['from', 'dirt', 'and', 'dust']"
+"['best', 'reds']"
+"['mermaid', 'dream']"
+"['pink', 'butterfly']"
+['vienna']
+"['cool', 'america']"
+"['aqua', 'beach']"
+"['garden', 'party']"
+"['cherry', 'goth']"
+"['dusty', 'blue', 'and', 'teal']"
+"['cornerstone', 'wealth']"
+"['young', 'and', 'hip']"
+"['hip', 'and', 'young']"
+"['favorite', 'blue']"
+['sad']
+['grassy']
+"['violet', 'essentials']"
+['constellations']
+['evil']
+['casino']
+['organic']
+['sicknesses']
+"['millennial', 'pink']"
+['spectrum']
+['april']
+"['beautiful', 'warm']"
+"['hammer', 'down']"
+"['ice', 'and', 'fire']"
+"['skin', 'tone']"
+['eye']
+['eye']
+['hair']
+['hair']
+['hair']
+['eye']
+"['skin', 'tone']"
+['hair']
+"['skin', 'tone']"
+['skin']
+['eye']
+"['dream', 'impossible', 'things']"
+"['lonely', 'cities']"
+['eye']
+['hair']
+"['quite', 'a', 'mess']"
+['hair']
+"['just', 'before', 'they', 'lose', 'it', 'all']"
+"['the', 'armor', 'falls']"
+"['purple', 'skyline']"
+"['coffee', 'at', 'midnight']"
+['hampshire']
+"['delicious', 'recipe']"
+"['last', 'forever']"
+"['butterflies', 'turned', 'to', 'dust']"
+"['i', 'know']"
+['dream']
+"['skin', 'tone']"
+"['burning', 'it', 'down']"
+"['salt', 'in', 'the', 'wound']"
+['am']
+"['be', 'alright']"
+"['people', 'like', 'you']"
+"['down', 'in', 'flames']"
+"['everyday', 'robots']"
+['computer']
+"['night', 'time']"
+['spirit']
+"['red', 'desire']"
+"['long', 'day', 'at', 'the', 'beach']"
+"['cat', 'eye']"
+['soul']
+"['the', 'water']"
+['better']
+"['fiery', 'dragon']"
+"['lost', 'in', 'darkness']"
+['cyanotrichite']
+"['mohave', 'purple', 'turquoise']"
+"['blue', 'skies']"
+"['lost', 'hopes', 'in', 'a', 'sea', 'of', 'sorrow']"
+"['so', 'many', 'lost', 'songs']"
+"['mohave', 'purple', 'turquoise']"
+"['the', 'great', 'redwoods']"
+"['dreaming', 'of', 'you']"
+"['downtown', 'city']"
+['toothpaste']
+['success']
+['protect']
+['eternal']
+"['running', 'with', 'the', 'wolves']"
+"['fast', 'car']"
+['dreams']
+"['all', 'these', 'years']"
+"['dreaming', 'of', 'you']"
+"['dreaming', 'of', 'you']"
+"['cave', 'of', 'ice']"
+"['crystal', 'clear']"
+['sandals']
+"['land', 'of', 'the', 'abandoned', 'dragon']"
+"['persian', 'blue']"
+"['cafe', 'coffee']"
+"['the', 'sky', 'burned']"
+"['foggy', 'harbor']"
+"['the', 'archer']"
+"['midnight', 'tide']"
+['worry']
+['summer']
+"['cover', 'of', 'midnight']"
+['soul']
+"['yellow', 'cream']"
+"['embers', 'and', 'dust']"
+"['in', 'the', 'blaze', 'of', 'sunrise']"
+['soul']
+['soul']
+"['above', 'the', 'clouds']"
+"['among', 'the', 'shadows']"
+"['precious', 'child']"
+"['wrathful', 'mermaid']"
+['scorpion']
+"['open', 'season']"
+['github']
+"['dark', 'green']"
+"['hot', 'tea', 'pot']"
+['pastels']
+['shell']
+['valentine']
+"['french', 'fries']"
+"['free', 'lemons']"
+['sizzle']
+"['lavender', 'dusk']"
+"['egg', 'toast']"
+['pregrowth']
+['regrowth']
+['falling']
+"['brand', 'new', 'eyes']"
+['duality']
+"['various', 'reds']"
+"['sea', 'rose']"
+['fusion']
+['fusion']
+['concert']
+['concert']
+['concert']
+['concert']
+"['let', 'your', 'day', 'begin']"
+['concert']
+['concert']
+['miracle']
+['magic']
+"['dark', 'background']"
+"['blue', 'grays']"
+"['butter', 'shades']"
+['soul']
+['moist']
+"['game', 'on']"
+"['gray', 'blue']"
+"['sunset', 'light', 'parts']"
+"['sunset', 'dark', 'parts']"
+"['purple', 'pastel']"
+['sprinkles']
+['conservative']
+['buoy']
+['hartford']
+"['seaweed', 'tickles']"
+"['vegetarian', 'heart']"
+['calamity']
+['namibia']
+"['hard', 'work', 'pays', 'off']"
+['serbia']
+['croatia']
+"['free', 'speech', 'flag']"
+"['close', 'to', 'nature']"
+['woodland']
+"['crystal', 'dream']"
+['margarita']
+"['strawberry', 'sangria']"
+"['pretty', 'girls', 'and', 'flowers']"
+"['skin', 'tones', 'and', 'hair']"
+"['hair', 'and', 'skintone']"
+['clothes']
+['favorite']
+['hair']
+"['bubbles', 'under', 'the', 'sea']"
+"['the', 'hardest', 'part']"
+"['smash', 'and', 'dash']"
+"['grass', 'and', 'sun']"
+"['beautifully', 'crafted', 'pastels']"
+"['not', 'letting', 'go']"
+"['blue', 'green', 'revised']"
+"['the', 'mountains']"
+"['blueberry', 'basket']"
+"['on', 'the', 'lake']"
+"['summer', 'blue']"
+"['summer', 'yellow']"
+"['summer', 'orange']"
+"['summer', 'pinks']"
+['bathroom']
+"['ideas', 'shower']"
+['run']
+"['salazar', 'slytherin']"
+['seafoam']
+"['i', 'iove', 'you']"
+['noise']
+['pastels']
+"['faded', 'reds']"
+"['mermaid', 'breath']"
+['sunny']
+['unicorns']
+['room']
+['room']
+"['light', 'coral']"
+"['night', 'life']"
+"['lilac', 'trees']"
+['beach']
+"['purple', 'forest']"
+['plummy']
+"['i', 'cant']"
+['swim']
+"['am', 'i', 'lonely']"
+"['melodramatic', 'neurotic', 'fool']"
+"['i', 'can', 'feel', 'the', 'thunder', 'breaking', 'in', 'your', 'heart']"
+"['darkly', 'muted']"
+['vibrant']
+"['saltine', 'crackers']"
+['unicorn']
+"['furious', 'heart']"
+"['crimson', 'ashes']"
+"['chocolate', 'bars']"
+"['add', 'some', 'glitter']"
+"['faded', 'blue']"
+"['bold', 'adventure']"
+"['mermaid', 'tails']"
+"['young', 'and', 'having', 'fun']"
+"['film', 'noir', 'with', 'a', 'drop', 'of', 'blood']"
+"['melancholy', 'rainbow']"
+"['my', 'child', 'blue']"
+"['pastel', 'skies']"
+"['sweet', 'candy']"
+['chart']
+"['violet', 'shades']"
+"['violet', 'shades']"
+['smarties']
+"['helpless', 'feelings']"
+"['ive', 'got', 'a', 'question']"
+['brownish']
+['toned']
+['bahamas']
+['sands']
+"['envious', 'greens']"
+"['beach', 'towels']"
+"['winter', 'baking']"
+"['gemstone', 'dreams']"
+['aliens']
+"['s', 'soft', 'drinks']"
+"['how', 'cruel', 'is', 'the', 'golden', 'rule']"
+"['cafe', 'date']"
+"['how', 'cruel']"
+"['plant', 'cafe']"
+"['s', 'movies']"
+"['ice', 'and', 'fire']"
+"['indoor', 'garden']"
+"['welcome', 'to', 'the', 'jungle']"
+"['berry', 'pillows']"
+"['sleep', 'the', 'day', 'away']"
+"['dreams', 'of', 'you']"
+"['not', 'alike']"
+['flowers']
+"['just', 'in', 'time']"
+['arcade']
+"['hint', 'of', 'love']"
+['ugh']
+"['blue', 'nude']"
+['aqua']
+['reunion']
+['startup']
+"['buenos', 'aires']"
+['virgin']
+['lion']
+"['cold', 'as', 'ice']"
+['kaboom']
+"['rainbow', 'in', 'pastel']"
+"['baby', 'blues']"
+"['winter', 'dream']"
+"['summer', 'dream']"
+"['mulberry', 'blossom']"
+['regrets']
+"['the', 'twins']"
+['playground']
+['playground']
+"['strange', 'love']"
+['hopeless']
+"['i', 'miss', 'you']"
+['melbourne']
+"['forget', 'everything']"
+"['young', 'punks']"
+"['writer', 'in', 'the', 'dark']"
+"['side', 'effects']"
+['chemicals']
+['june']
+"['a', 'bit', 'of', 'fluff']"
+"['ancient', 'wizard']"
+"['bridget', 'bloom']"
+"['rainbow', 'wizard']"
+"['childish', 'fairy']"
+"['sour', 'apple', 'and', 'honey']"
+"['the', 'night', 'i', 'think', 'of', 'you']"
+"['summer', 'pop']"
+['shit']
+"['far', 'away']"
+['banana']
+['watermelon']
+['am']
+"['jungle', 'beats']"
+['right']
+"['the', 'bull']"
+"['death', 'walks', 'among', 'you']"
+"['easter', 'egg']"
+['whisper']
+"['a', 'spring', 'day']"
+"['wishy', 'washy']"
+"['new', 'parrot']"
+"['sweet', 'talk']"
+"['liquid', 'feel']"
+"['old', 'yellow', 'bricks']"
+['issues']
+"['baby', 'im', 'yours']"
+['loner']
+"['raspberry', 'cane']"
+"['first', 'time']"
+['pink']
+['arrow']
+['supreme']
+"['forest', 'winter']"
+['protect']
+"['my', 'favourite']"
+"['not', 'afraid', 'to', 'die']"
+"['depressed', 'mom']"
+['dumplings']
+"['fear', 'and', 'misery']"
+"['pretty', 'sunflowers']"
+"['orange', 'choices']"
+"['blue', 'choices']"
+"['boldly', 'authentic']"
+"['beauty', 'essentials']"
+"['beach', 'sea']"
+"['high', 'noon']"
+['pop']
+['navy']
+"['light', 'and', 'dark']"
+"['next', 'best']"
+"['gold', 'and', 'blue']"
+['saddlery']
+['creepy']
+"['deep', 'thoughts']"
+"['baby', 'delight']"
+['gothic']
+"['neon', 'is', 'good']"
+"['shimmering', 'daylight', 'water']"
+"['baby', 'baby', 'babe']"
+['carrot']
+"['green', 'pale']"
+"['blue', 'pale']"
+['grey']
+"['beach', 'aesthetic']"
+['youthful']
+"['new', 'room']"
+"['blues', 'in', 'a', 'pool']"
+"['the', 'skies', 'are', 'bound', 'to', 'nothing']"
+"['my', 'favorite']"
+"['shades', 'of', 'blue']"
+"['sunset', 'love']"
+['hurting']
+"['wilderness', 'peace']"
+"['office', 'room']"
+"['office', 'room']"
+"['office', 'room']"
+"['pediatric', 'ward']"
+"['i', 'love', 'you']"
+['burnt']
+"['you', 'used', 'me']"
+"['forest', 'tree']"
+"['staring', 'at', 'the', 'sea']"
+['sleepy']
+"['thank', 'you', 'so', 'much']"
+"['sea', 'breeze']"
+"['pumpkin', 'spice']"
+"['sunset', 'at', 'the', 'beach']"
+['universal']
+"['pastel', 'mix']"
+['pokemon']
+"['pastel', 'tears']"
+['blue']
+['origami']
+['postcard']
+"['not', 'found']"
+"['red', 'blue']"
+['lipstick']
+"['skirts', 'flipping']"
+"['i', 'fought', 'the', 'law']"
+"['fallen', 'in', 'love']"
+"['soft', 'confession']"
+"['mature', 'pastels']"
+"['where', 'am', 'i']"
+['rainforest']
+"['dock', 'lilac']"
+"['dusty', 'apple', 'gothic']"
+['woodland']
+"['heroes', 'never', 'die']"
+"['full', 'moon']"
+"['evenings', 'glow']"
+"['southern', 'tea', 'party']"
+"['green', 'trees']"
+['pearl']
+['motivation']
+"['cheeze', 'and', 'crackers']"
+"['watercolor', 'street']"
+"['acrylic', 'metropolitan']"
+"['city', 'of', 'pastel']"
+"['im', 'tired']"
+"['im', 'sleepy']"
+"['pink', 'season']"
+"['rock', 'n', 'roll', 'circus']"
+"['look', 'sharp']"
+['chile']
+"['fresh', 'and', 'happy']"
+['picnic']
+"['dance', 'at', 'the', 'moulin', 'rouge']"
+['brown']
+['violette']
+"['purple', 'blaze']"
+"['sweet', 'baby', 'angel']"
+"['roses', 'against', 'black']"
+['depression']
+"['beach', 'ride']"
+"['this', 'girl', 'is', 'on', 'fire']"
+['attractive']
+"['from', 'blue', 'to', 'green']"
+['springster']
+['leisure']
+"['one', 'hot', 'minute']"
+['aster']
+"['id', 'rather', 'die']"
+"['lilac', 'blood']"
+"['negative', 'growth']"
+"['positive', 'growth']"
+"['vintage', 'tropical']"

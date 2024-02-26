@@ -9,3 +9,10 @@ matplotlib>=3.5.3
 pandas>=1.4.4
 scikit-learn>=1.1.2
 tensorflow-gpu==2.3.0
+elkai==2.0.1
+colormath==3.0.0
+sko==0.5.7
+PyNomaly==0.3.3
+fastdtw==0.3.4
+pyemd==1.0.0
+colour-science==0.4.4
